@@ -8,6 +8,8 @@ This project analyzes the **IBM HR Analytics Employee Attrition Dataset** using 
 
 The objective is to understand employee attrition and identify patterns associated with employees leaving an organization.
 
+![HR Analytics Project](HR_Analytics_image.png)
+
 ## 🎯 Objectives
 
 * Analyze overall employee attrition
@@ -106,4 +108,21 @@ HR-Analytics/
 ## 📌 Disclaimer
 
 This project is an analytical study based on the **IBM HR Employee Attrition Dataset** and is intended for learning, portfolio, and HR analytics demonstration purposes.
-::: 
+
+## 🤝 Connect With Me
+
+Thank you for taking the time to explore this project!
+
+If you have any **questions, suggestions, feedback, or collaboration opportunities**, feel free to reach out to me through email or LinkedIn.
+
+📧 **Email:** [mahidharbanapuram@gmail.com](mailto:mahidharbanapuram@gmail.com)
+
+🔗 **LinkedIn:** [Banapuram Mahidhar](https://www.linkedin.com/in/banapuram-mahindra-77914133a/)
+
+I would be happy to connect, discuss the project, and exchange ideas on **HR Analytics, Data Analytics, and related projects**.
+
+---
+
+### ⭐ Thank You for Visiting!
+
+If you found this project useful or interesting, consider giving the repository a **⭐ Star**!
